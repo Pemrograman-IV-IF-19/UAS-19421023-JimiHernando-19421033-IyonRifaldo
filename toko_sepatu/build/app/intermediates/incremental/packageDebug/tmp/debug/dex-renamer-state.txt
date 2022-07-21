@@ -1,0 +1,4 @@
+#Wed Jul 20 15:21:20 ICT 2022
+base.0=D\:\\UAS-PEMOGRAMAN-IV\\toko_sepatu\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
